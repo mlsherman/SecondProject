@@ -1,0 +1,2 @@
+# SecondProject
+Git info
